@@ -8,4 +8,5 @@ Before('~@nobrowser') do
 end
 
 After do
+  #$browser.close
 end

@@ -1,3 +1,3 @@
-home: ''
-teams: 'teams'
-login: 'login'
+home: '/'
+all_teams: '/teams/all'
+login: '/login/login'
