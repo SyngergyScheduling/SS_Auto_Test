@@ -6,7 +6,3 @@ Before('~@nobrowser') do
     $active_browser = true
   end
 end
-
-After do
-  #$browser.close
-end

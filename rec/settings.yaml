@@ -1,0 +1,3 @@
+headless: true
+firefox_path: "/home/doxterpepper/Development/firefox-47.0.1/firefox"
+url: 'http://synergyscheduling.duckdns.org:3000'

@@ -6,5 +6,5 @@ This repository contains the code for automating testing of the Synergy Scheduli
 # Getting Started
 * ruby version 2.3.1
 * bundle install
-* run `cucumber` to start tests
-* `cucumber -t @sometag` to run specific tests
+* run `ruby run.rb` to start tests
+* `ruby run.rb -t @sometag` to run specific tests
